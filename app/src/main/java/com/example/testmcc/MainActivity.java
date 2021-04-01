@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("Tag" , "onCreate: welcome");
         Log.d("Tag" , "onCreate: welcome Ahmed");
+        Log.d("Tag" , "onCreate: welcome Ahmed Ahmed");
+
 
 
     }
