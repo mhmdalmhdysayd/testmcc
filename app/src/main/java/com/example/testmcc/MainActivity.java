@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d("Tag" , "onCreate: welcome");
+        Log.d("Tag" , "onCreate: welcome Ahmed");
 
 
     }
